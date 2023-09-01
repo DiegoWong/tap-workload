@@ -1,4 +1,4 @@
-apiVersion: entity.accelerator.apps.tanzu.vmware.com/v1alpha1
+apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
 kind: Fragment
 metadata:
   title: Tap Workload
